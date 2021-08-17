@@ -48,7 +48,7 @@ PyCharm works with IPython Notebook, has an interactive Python terminal, and is 
 PyCharm can be used on Windows, Mac OS X, and Linux using a single license key.
 
 # Linux Operating System
-Linux is an open source, community-developed Unix-like operating system for PCs, servers, mainframes, mobile devices, and embedded devices. It is one of the most commonly used operating systems, having support for practically every major computer platform, including the x86, ARM, and SPARC architectures.
+Linux is a Unix-like operating system developed by the Linux community for PCs, servers, mainframes, mobile devices, and embedded devices. It is one of the most commonly used operating systems, having support for practically every major computer platform, including the x86, ARM, and SPARC architectures.
 Linux was designed to be similar to UNIX, but it has since evolved to run on a variety of hardware, including phones and supercomputers. Every Linux-based operating system includes the Linux kernel, which manages hardware resources, as well as a collection of software packages that make up the rest of the operating system.
 The operating system includes some common basic components, such as the GNU tools. These programs enable the user to manage the kernel's resources, install additional software, adjust performance and security settings, and do other things. When all of these tools are combined, they form the operating system, because Linux is an open source operating system, different Linux distributions have different software combinations.
 Linux ingredients : 
