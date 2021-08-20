@@ -83,9 +83,39 @@ ________________________________________________________________________________
 ## Operating System that I will use it in project : Linux Ubuntu distribution.
 ## Version Control System that I will use it in project : GitHub.
 ____________________________________________________________________________________
-Task 1 (2)
+Task 2 (2)
 
 So I will use Visual Studio Code for coding with HTML, JS and CSS because it’s easy for use and all its features are good and help me get the job done quickly and correctly without any errors, I will use also GitHub because It’s so helpful when we work as a team and it’s good to tracking what’s the changed that happen on the code the thing that will help us not to confront conflicts in code and I will use Linux operating system because has a high security, open Source,  ease of maintenance, runs on any hardware and ease of use.
 VS Code lets us to be productive in seconds with syntax highlighting, bracket matching, auto-indentation, box selection, snippets, and more.
 It's easy to traverse your code and save time and effort with intuitive keyboard shortcuts, simple customization, and community-contributed keyboard shortcut mappings.
 And GitHub because it includes a large number of large organizations, it is best to display projects after they have been completed, also Easy Version Control, Secure Cloud Storage and the Largest Shared Repository.
+
+Task 2 (3)
+
+The reasons of using Visual Studio Code IDE :
+You'll often benefit from tools that understand more code than just blocks of text if you're doing significant coding. Visual Studio Code has IntelliSense code completion, sophisticated semantic code understanding and navigation, and code refactoring.
+When things get difficult in the coding department, the brave turn to debugging. Debugging is possible in Visual Studio Code, which is frequently the functionality developers miss the most in a leaner coding environment. Using the interactive debugger included with Visual Studio Code, you can step through source code, inspect variables, view call stacks, and run commands in the console.
+To automate routine tasks and streamline workflows, VS Code integrates with build and scripting tools. Git support has been added to VS Code, allowing you to interact with source control without ever leaving the editor, including examining pending changes diffs.
+
+All these reasons make me to choose Visual Studio Code to build my website so it will help us with writing code and spend less time also effort.
+It is also easy to use and the team members are all working on it professionally because of its long-time use in writing code, which will make us not need time to learn the features and how to operate the program and how to work on it. It will help us to skip a lot of time in writing because it has a code completion feature.
+The reasons of using Linux Operating System :
+1. A high level of protection
+Installing and using Linux on your PC is the simplest approach to avoid viruses and malware. Linux was developed with security in mind, and it is significantly less susceptible to infections than Windows.
+2. Exceptionally stable
+The Linux operating system is extremely stable and rarely crashes. The Linux operating system continues to run as quickly as it did when it was originally installed, even after several years. Most of us have witnessed how a newly installed Windows system performs incredibly well for six to twelve months before slowing down. Then, in most cases, reinstalling the operating system and all other software is your only alternative.
+3. Simplicity of upkeep
+The Linux operating system is simple to maintain since the user can easily update the operating system and all installed software from a central location. Every Linux distribution has its own central software repository, which is used to maintain the system up to date and secure. They provide regular updates, and the system can be upgraded without having to restart. Users can update their data on a regular basis with just a few clicks, or they can even automate the process. In comparison to a Linux system, updating a Windows system is more difficult. Under addition, in Windows, all third-party software such as Acrobat Reader and Firefox must be updated separately.
+4. It is compatible with any computer.
+We are all aware that with each new Windows OS release, a large number of hardware systems become obsolete because their technical specifications are no longer adequate to run the most recent Windows OS. Linux is particularly adept at making use of the system's resources. In a Linux system, users and unique hardware requirements can be catered to. The installation process is quite flexible, allowing users to select which modules to install. This allows them to install Linux on older technology and make the best use of all available hardware resources.
+5. Ease of use
+Linux is no longer solely for nerds, contrary to common opinion. It now has an excellent graphical user interface and is user-friendly (GUI). It has nearly all of the same functionality as Windows. The graphical user interface has progressed to the point that most of what ordinary users desire can be done on Linux just as simply as it can be done on Windows, and without having to know any commands.
+6. Community Support 
+On the Internet, there is a large community of Linux users who can be found in numerous forums. Because many volunteers are online and working to solve problems because of their passion of Linux, any query submitted in a forum will usually receive a speedy response.
+We have all preferred to use a system Linux because there is very little chance that it will fail because any failure may expose us to the risk of delaying the completion of a large project such as a website project for movies. It also works on all devices. Each member of the team has a different device type than the other. Some of them are old and some are new. The problems that we may encounter with this system are very simple.
+And it takes a little time compared to the Windows system, and if we need help due to a problem in the system, we can get help immediately, all of these reasons its first goal in choosing this system is that we do not run into problems that make us delay in delivering the project to build a website for movies because we do not have much time.
+The reasons of using GitHub Version Control System :
+A Massively Influential Group
+GitHub is an open-source platform that is driven by the community. Millions of programmers and enthusiasts contribute to the community by downloading, reviewing, and rating their work.
+GitHub is also the platform of choice for developers at a number of major corporations. Microsoft is the system's largest donor, but it also includes Google, SAP, AirBnB, IBM, PayPal, and a few other companies.
+In our project, we need to write collectively and increase and modify the code in order to accomplish the task of creating a web page for movies faster and also to work as a team and reduce the effort on each team member so we decided to use GitHub because it will help us overcome this problem also that we will publish Therefore, our project, which helps large companies see the projects that they are able to complete, and increases the rates of obtaining a job.
