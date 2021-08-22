@@ -116,3 +116,21 @@ Techniques for White Box Testing
 Statement Coverage: During the software engineering testing process, this technique mandates that every possible statement in the code be tested at least once.
 
 Branch Coverage - This technique examines every conceivable path of a software application (if-else and other conditional loops).
+
+
+# Refrences
+
+* CodeBots
+https://codebots.com/way-of-working/what-are-the-10-biggest-risks-in-software-development
+
+* LogRocket
+https://blog.logrocket.com/localstorage-javascript-complete-guide/
+
+* Agile Aliance
+https://www.agilealliance.org/agile101/
+
+* GURU99
+https://www.guru99.com/black-box-testing.html
+
+* GURU99
+https://www.guru99.com/white-box-testing.html
