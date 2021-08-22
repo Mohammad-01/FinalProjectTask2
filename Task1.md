@@ -39,31 +39,39 @@ We will use LocalStorage to save the add items in favorite list it in the browse
 
 ## Wireframe
 
-![fig1](wwe1.png)
+![fig1](images/home.jpeg)
 
 * Main Website Page
 
 Here will have at the first of page the bar that have our logo and IMDb link also two options to move to series page or movies page and also the search icon then we have a slide show to the best movies for this month then we have a small list of top movies contain of 5 movies then also a small list of top series contain of 5 series and at the end of page we have our logo, copyright, about us option to move to about us page and icons move you to our pages in social media.
 
-![fig1](wwe2.png)
+![fig1](images/MoviesorSeries.jpeg)
 
 * Movies and Series pages
 
 First in the page we have the logo then if you are In movies page you will see to options home to back to the main page and series to move to the series page and if you are in series page you will see the home option and the movies option that move you to the movies page, then the search icon after the bar we will add a trailer video of best movie or for any movie need ad, then you will show a list of movies and after the list in the end of page our logo and the social media icons.
 
-![fig1](wwe3.png)
+![fig2](images/M&SDetails.jpeg)
 
 * All information about the series or movie in details
 
 At the first of page our logo then Movie, home and series options then the movie image behind it the movie name, year, type, imdb link, rate etc. then the movie trailer then story and finally the actors. 
 
-![fig1](wwe4.png)
+![fig3](images/aboutus.jpeg)
 
 * About Us page
 
 At the first of page our logo then Movie, home and series options then every member in this team image with his name and details and at the end of page the logo and the social media icons.
 
 ## Activity Diagram
+
+![fig4](images/ActivD.png)
+
+* From the Home page you can move to movies, about us and series page.
+* In movies page you can move to home, sereies, movie show page (Details) and about us page. 
+* Series page you can move from it to home, movie page, series show page (Details) and about us page. 
+* Show page for series and movies you can move from to home, series page, movies page and about us page.
+* From about us page tou can move to home page, series page and movies page.
 
 ## Coding and implementation technique
 
