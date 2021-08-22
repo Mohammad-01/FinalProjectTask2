@@ -83,6 +83,7 @@ ________________________________________________________________________________
 ## Operating System that I will use it in project : Linux Ubuntu distribution.
 ## Version Control System that I will use it in project : GitHub.
 ____________________________________________________________________________________
+
 Task 2 (2)
 
 So I will use Visual Studio Code for coding with HTML, JS and CSS because it’s easy for use and all its features are good and help me get the job done quickly and correctly without any errors, I will use also GitHub because It’s so helpful when we work as a team and it’s good to tracking what’s the changed that happen on the code the thing that will help us not to confront conflicts in code and I will use Linux operating system because has a high security, open Source,  ease of maintenance, runs on any hardware and ease of use.
@@ -99,7 +100,9 @@ To automate routine tasks and streamline workflows, VS Code integrates with buil
 
 All these reasons make me to choose Visual Studio Code to build my website so it will help us with writing code and spend less time also effort.
 It is also easy to use and the team members are all working on it professionally because of its long-time use in writing code, which will make us not need time to learn the features and how to operate the program and how to work on it. It will help us to skip a lot of time in writing because it has a code completion feature.
+
 The reasons of using Linux Operating System :
+
 1. A high level of protection
 Installing and using Linux on your PC is the simplest approach to avoid viruses and malware. Linux was developed with security in mind, and it is significantly less susceptible to infections than Windows.
 2. Exceptionally stable
@@ -114,8 +117,31 @@ Linux is no longer solely for nerds, contrary to common opinion. It now has an e
 On the Internet, there is a large community of Linux users who can be found in numerous forums. Because many volunteers are online and working to solve problems because of their passion of Linux, any query submitted in a forum will usually receive a speedy response.
 We have all preferred to use a system Linux because there is very little chance that it will fail because any failure may expose us to the risk of delaying the completion of a large project such as a website project for movies. It also works on all devices. Each member of the team has a different device type than the other. Some of them are old and some are new. The problems that we may encounter with this system are very simple.
 And it takes a little time compared to the Windows system, and if we need help due to a problem in the system, we can get help immediately, all of these reasons its first goal in choosing this system is that we do not run into problems that make us delay in delivering the project to build a website for movies because we do not have much time.
+
 The reasons of using GitHub Version Control System :
+
 A Massively Influential Group
 GitHub is an open-source platform that is driven by the community. Millions of programmers and enthusiasts contribute to the community by downloading, reviewing, and rating their work.
 GitHub is also the platform of choice for developers at a number of major corporations. Microsoft is the system's largest donor, but it also includes Google, SAP, AirBnB, IBM, PayPal, and a few other companies.
 In our project, we need to write collectively and increase and modify the code in order to accomplish the task of creating a web page for movies faster and also to work as a team and reduce the effort on each team member so we decided to use GitHub because it will help us overcome this problem also that we will publish Therefore, our project, which helps large companies see the projects that they are able to complete, and increases the rates of obtaining a job.
+
+# Refrences
+
+* Visual Studio Code
+https://code.visualstudio.com/
+
+* JET BRAINS
+https://www.jetbrains.com/pycharm/
+
+* Britannica
+https://www.britannica.com/technology/Windows-OS
+
+* Red Hat
+https://www.redhat.com/en/topics/linux/what-is-linux
+
+* TechTarget
+https://searchitoperations.techtarget.com/definition/GitHub
+
+* Simplilearn
+https://www.simplilearn.com/tutorials/git-tutorial/what-is-gitlab
+
