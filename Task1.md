@@ -46,11 +46,11 @@ We will use LocalStorage to save the add items in favorite list it in the browse
 
 Here will have at the first of page the bar that have our logo and IMDb link also two options to move to series page or movies page and also the search icon then we have a slide show to the best movies for this month then we have a small list of top movies contain of 5 movies then also a small list of top series contain of 5 series and at the end of page we have our logo, copyright, about us option to move to about us page and icons move you to our pages in social media.
 
-![fig1](images/MoviesorSeries.jpeg)
+![fig1](images/addcart.jpeg)
 
 * Movies and Series pages
 
-First in the page we have the logo then if you are In movies page you will see to options home to back to the main page and series to move to the series page and if you are in series page you will see the home option and the movies option that move you to the movies page, then the search icon after the bar we will add a trailer video of best movie or for any movie need ad, then you will show a list of movies and after the list in the end of page our logo and the social media icons.
+First in the page we have the logo then if you are In movies page you will see to options home to back to the main page and series to move to the series page and if you are in series page you will see the home option and the movies option that move you to the movies page, then the cart button to move to add to cart page after the bar we will add a trailer video of best movie or for any movie need ad, then you will show a list of movies and after the list in the end of page our logo and the social media icons.
 
 ![fig2](images/M&SDetails.jpeg)
 
@@ -66,7 +66,7 @@ At the first of page our logo then Movie, home and series options then every mem
 
 ## Activity Diagram
 
-![fig4](images/ActivD.png)
+![fig4](images/ActiDiagram.jpeg)
 
 * From the Home page you can move to movies, about us and series page.
 * In movies page you can move to home, sereies, movie show page (Details) and about us page. 
@@ -117,3 +117,20 @@ Techniques for White Box Testing
 Statement Coverage: During the software engineering testing process, this technique mandates that every possible statement in the code be tested at least once.
 
 Branch Coverage - This technique examines every conceivable path of a software application (if-else and other conditional loops).
+
+# Refrences
+
+* CodeBots
+https://codebots.com/way-of-working/what-are-the-10-biggest-risks-in-software-development
+
+* LogRocket
+https://blog.logrocket.com/localstorage-javascript-complete-guide/
+
+* Agile Aliance
+https://www.agilealliance.org/agile101/
+
+* GURU99
+https://www.guru99.com/black-box-testing.html
+
+* GURU99
+https://www.guru99.com/white-box-testing.html
