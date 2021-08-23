@@ -75,46 +75,52 @@ At the first of page our logo then Movie, home and series options then every mem
 
 ## Coding and implementation technique
 
-Coding and implementation technique : Agile software development
-
-What is Agile Software Development, and how does it differ from traditional software development?
-Scrum, Extreme Programming, and Feature-Driven Development are examples of agile software development frameworks (FDD).
+Coding and implementation technique : Agile software developmentWhat
+What is Agile Software Development, and the way does it differ from traditional software development?Scrum, Extreme Programming, and Feature-Driven Development are samples of agile software development frameworks (FDD).
 
 Agile software development methods include pair programming, test-driven development, stand-ups, planning sessions and sprints.
-The Manifesto for Agile Software Development and its 12 Ideas are an umbrella title for a set of concepts and activities based on the ideals and principles articulated in the Manifesto for Agile Software Development. It's generally a good idea to live by these values and principles while approaching software development in a given way, and to utilize them to help you figure out what to do in your individual scenario.
-Agile varies from traditional software development approaches in that it places a greater emphasis on the people doing the work and how they work together. Solutions are found through collaboration between self-organizing cross-functional teams utilizing the appropriate methodologies for their environment.
+The Manifesto for Agile Software Development and its 12 Ideas are an umbrella title for a group of concepts and activities supported the ideals and principles articulated within the Manifesto for Agile Software Development.
+
+It's generally an honest idea to measure by these values and principles while approaching software development during a given way, and to utilize them to assist you work out what to try to to in your individual scenario.Agile varies from traditional software development approaches therein it places a greater emphasis on the people doing the work and the way they work together. Solutions are found through collaboration between self-organizing cross-functional teams utilizing the acceptable methodologies for his or her environment.
 
 Methodologies for Agile
+
 The four main values of Agile are:
 
 1. People and their interactions vs. processes and tools
+
 2. Useful software above thorough documentation
-3. Collaboration with customers rather than contract negotiations
-4. Adapting to change in a planned manner
+
+3. Collaboration with customers instead of contract negotiations
+
+4. Adapting to vary during a planned manner
 
 ## Testing technique
 
+
 ### Black Box Testing
 
-Black Box Testing is a software testing method that involves testing the functions of software applications without knowing the internal code structure, implementation details, or internal routes. Black Box Testing is a sort of software testing that is entirely driven by software requirements and specifications and focuses on the input and output of software applications, behavioral testing is another name for it.
 
-There are many different types of Black Box Testing, but these are the most common:
+Testing may be a software testing method that involves testing the functions of software applications without knowing the interior code structure, implementation details, or internal routes. recorder Testing may be a kind of software testing that's entirely driven by software requirements and specifications and focuses on the input and output of software applications, behavioral testing is another name for it.
 
-Functional testing - This form of black box testing is concerned with a system's functional requirements and is carried out by software testers.
 
-Non-functional testing - Non-functional requirements such as performance, scalability, and usability are the focus of this type of black box testing rather than specific functionality.
+There are many various sorts of recorder Testing, but these are the foremost common:
 
-Regression testing - Is performed after code changes, upgrades, or other system maintenance to ensure that the new code does not harm the existing code.
+
+Functional testing - this type of recorder testing cares with a system's functional requirements and is administered by software testers.
+
+Non-functional testing - Non-functional requirements like performance, scalability, and usefulness are the main target of this sort of recorder testing instead of specific functionality.
+
+Regression testing - Is performed after code changes, upgrades, or other system maintenance to make sure that the new code doesn't harm the prevailing code.
 
 ### White Box Testing
 
-Is a software testing technique that involves examining the product's underlying structure, architecture, and coding in order to verify input-output flow and improve design, usability, and security. White box testing is also known as Clear box testing, Open box testing, Transparent box testing, Code-based testing, and Glass box testing since the code is visible to the testers.
+Is a software testing technique that involves examining the product's underlying structure, architecture, and coding so as to verify input-output flow and improve design, usability, and security. White box testing is additionally referred to as Clear box testing, Open box testing, Transparent box testing, Code-based testing, and Glass box testing since the code is visible to the testers.
+Techniques for White Box Testing.
 
-Techniques for White Box Testing
+Statement Coverage - During the software engineering testing process, this system mandates that each possible statement within the code be tested a minimum of once.
 
-Statement Coverage: During the software engineering testing process, this technique mandates that every possible statement in the code be tested at least once.
-
-Branch Coverage - This technique looks at every possible path a software application could take (if-else and other conditional loops).
+Branch Coverage - this system looks at every possible path a software application could take (if-else and other conditional loops).
 
 # Refrences
 
