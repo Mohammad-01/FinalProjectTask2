@@ -9,7 +9,7 @@ Visual Studio Code includes basic support for the majority of popular programmin
 * Data collection :
 Visual Studio Code collects and sends usage data to Microsoft. 
 * Version management :
-Visual Studio Code includes source control as a standard feature. It has a dedicated tab in the menu bar where you can access version control settings and see changes to the current project.
+Visual Studio Code includes source control as a standard feature. "You can access version control settings and observe changes to the current project using a dedicated tab in the menu bar."
 
 # PyCharm
 PyCharm : is an integrated development environment (IDE) for computer programming that focuses on the Python programming language. It was designed by JetBrains, a Czech startup (formerly known as IntelliJ). It comes with a code analyzer, a graphical debugger, an integrated unit tester, version control system (VCS) integration, and support for Django web development and Anaconda data science.
@@ -131,7 +131,7 @@ Task 2 (3)
 The reasons of using Visual Studio Code IDE :
 You'll often benefit from tools that understand more code than just blocks of text if you're doing significant coding. Visual Studio Code has IntelliSense code completion, sophisticated semantic code understanding and navigation, and code refactoring.
 When things get difficult in the coding department, the brave turn to debugging. Debugging is possible in Visual Studio Code, which is frequently the functionality developers miss the most in a leaner coding environment. Using the interactive debugger included with Visual Studio Code, you can step through source code, inspect variables, view call stacks, and run commands in the console.
-To automate routine tasks and streamline workflows, VS Code integrates with build and scripting tools. Git support has been added to VS Code, allowing you to interact with source control without ever leaving the editor, including examining pending changes diffs.
+To automate routine tasks and streamline workflows, VS Code integrates with build and scripting tools. VS Code now offers Git support, allowing you to engage with source control without ever leaving the editor, including examining pending change diffs.
 
 All these reasons make me to choose Visual Studio Code to build my website so it will help us with writing code and spend less time also effort.
 It is also easy to use and the team members are all working on it professionally because of its long-time use in writing code, which will make us not need time to learn the features and how to operate the program and how to work on it. It will help us to skip a lot of time in writing because it has a code completion feature.
