@@ -91,6 +91,41 @@ VS Code lets us to be productive in seconds with syntax highlighting, bracket ma
 It's easy to traverse your code and save time and effort with intuitive keyboard shortcuts, simple customization, and community-contributed keyboard shortcut mappings.
 And GitHub because it includes a large number of large organizations, it is best to display projects after they have been completed, also Easy Version Control, Secure Cloud Storage and the Largest Shared Repository.
 
+Pycharm disadvantages:
+
+1- The most significant disadvantage of PyCharm is that it consumes more space than other text editors, resulting in less code capability.
+
+2- The community version is restricted to Python development and does not permit the use of other programming languages.
+
+3- The professional edition is a little pricey.
+
+4- Because setting a virtual environment variable can be difficult for beginners, they may avoid using it.
+
+Windows disadvantages :
+
+1- Resources are in short supply.
+
+2- Closed source.
+
+3- Virus susceptibility due to a lack of security.
+
+4- Licensing agreements that are outrageous.
+
+5- Technical support is inadequate.
+
+6- Additional costs.
+
+7- Remote access is inadequate.
+
+Gitlab disadvantages :
+
+1- Its user interface may be slower than GitHub.
+
+2- There are a few common issues with repositories.
+
+Those disadvantages made me choose their competitors because they will affect negatively on our work.
+
+
 Task 2 (3)
 
 The reasons of using Visual Studio Code IDE :
@@ -144,4 +179,14 @@ https://searchitoperations.techtarget.com/definition/GitHub
 
 * Simplilearn
 https://www.simplilearn.com/tutorials/git-tutorial/what-is-gitlab
+
+* FromLinux 
+https://blog.desdelinux.net/en/github-vs-gitlab/
+
+
+* Hackrio 
+https://hackr.io/blog/what-is-pycharm
+
+* RJ Systems
+http://www.rjsystems.nl/en/3200.php
 
