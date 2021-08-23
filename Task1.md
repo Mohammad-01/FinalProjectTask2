@@ -32,7 +32,7 @@ Weak project management, don't write of initial plans, the problems that may fac
 
 Database design : LocalStorage 
 
-LocalStorage : Is a feature that allows JavaScript sites and apps to save key-value pairs in a web browser without having to worry about them expiring. This means that the data stored in the browser will survive the closing of the browser window.
+LocalStorage: This is a feature that allows JavaScript sites and apps to save key-value pairs in a web browser without their expiring. This means that the data stored in the browser will survive the closing of the browser window.
 
 We will use LocalStorage to save the add items in favorite list it in the browser when the user back to the website after he close the website.
 
@@ -80,10 +80,9 @@ Coding and implementation technique : Agile software development
 What is Agile Software Development, and how does it differ from traditional software development?
 Scrum, Extreme Programming, and Feature-Driven Development are examples of agile software development frameworks (FDD).
 
-Pair programming, test-driven development, stand-ups, planning meetings, and sprints are all examples of agile software development approaches.
-The Manifesto for Agile Software Development and its 12 Ideas are an umbrella title for a set of concepts and activities based on the ideals and principles articulated in the Manifesto for Agile Software Development. When approaching software development in a certain way, it's generally a good idea to live by these values and principles and use them to help you figure out what to do in your specific situation.
-
-Agile differs from traditional software development methodologies in that it focuses on the people doing the job and how they collaborate. Collaboration between self-organizing cross-functional teams using the best methods for their context leads to solutions.
+Agile software development methods include pair programming, test-driven development, stand-ups, planning sessions and sprints.
+The Manifesto for Agile Software Development and its 12 Ideas are an umbrella title for a set of concepts and activities based on the ideals and principles articulated in the Manifesto for Agile Software Development. It's generally a good idea to live by these values and principles while approaching software development in a given way, and to utilize them to help you figure out what to do in your individual scenario.
+Agile varies from traditional software development approaches in that it places a greater emphasis on the people doing the work and how they work together. Solutions are found through collaboration between self-organizing cross-functional teams utilizing the appropriate methodologies for their environment.
 
 Methodologies for Agile
 The four main values of Agile are:
@@ -97,13 +96,13 @@ The four main values of Agile are:
 
 ### Black Box Testing
 
-Black Box Testing is a software testing method that involves testing the functions of software applications without knowing the internal code structure, implementation details, or internal routes. Black Box Testing is a type of software testing that focuses on the input and output of software applications and is totally driven by software requirements and specifications. Behavioral testing is another name for it.
+Black Box Testing is a software testing method that involves testing the functions of software applications without knowing the internal code structure, implementation details, or internal routes. Black Box Testing is a sort of software testing that is entirely driven by software requirements and specifications and focuses on the input and output of software applications, behavioral testing is another name for it.
 
 There are many different types of Black Box Testing, but these are the most common:
 
 Functional testing - This form of black box testing is concerned with a system's functional requirements and is carried out by software testers.
 
-Non-functional testing - This type of black box testing is concerned with non-functional requirements such as performance, scalability, and usability rather than specific functionality.
+Non-functional testing - Non-functional requirements such as performance, scalability, and usability are the focus of this type of black box testing rather than specific functionality.
 
 Regression testing - Is performed after code changes, upgrades, or other system maintenance to ensure that the new code does not harm the existing code.
 
@@ -115,7 +114,7 @@ Techniques for White Box Testing
 
 Statement Coverage: During the software engineering testing process, this technique mandates that every possible statement in the code be tested at least once.
 
-Branch Coverage - This technique examines every conceivable path of a software application (if-else and other conditional loops).
+Branch Coverage - This technique looks at every possible path a software application could take (if-else and other conditional loops).
 
 # Refrences
 
