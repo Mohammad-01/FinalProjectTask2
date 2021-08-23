@@ -1,164 +1,126 @@
 Task 2 (1) 
 # Visual Studio Code
-Visual Studio Code : Is a lightweight code editor that includes features for debugging, task execution, and version management. It seeks to give developers only the tools they need for a rapid code-build-debug cycle, leaving more sophisticated workflows to full-featured IDEs like Visual Studio IDE, and it’s  free and It's based on open source.
-Visual Studio Code comes with various FTP extensions, allowing it to be used as a free web development option. Code may be synchronized between the editor and the server without the need for additional software.
-The code page for the active document, the document's newline character, and the active document programming language are all configurable in Visual Studio code. It can be utilized on any platform, in any location, and in any computer language.
-## Features :
-* Language support :
-Visual Studio Code includes basic support for the majority of popular programming languages.
-* Data collection :
-Visual Studio Code collects and sends usage data to Microsoft. 
-* Version management :
-Visual Studio Code includes source control as a standard feature. "You can access version control settings and observe changes to the current project using a dedicated tab in the menu bar."
-
+Visual Studio Code may be a lightweight code editor with debugging, task execution, and version control capabilities. It aims to supply developers with only the tools they have to finish a fast code-build-debug cycle, leaving more complex processes to full-featured IDEs like Visual Studio IDE, and it's free and open source. Visual Studio Code comes with variety of FTP extensions, making it a viable option for free of charge web development. Without the utilization of additional software, code are often synchronized between the editor and therefore the server. In Visual Studio code, you'll change the active document's code page, the document's newline character, and therefore the active document programing language. It works on any platform, in any location, and in any programing language. ## Features : * Language support : Visual Studio Code includes basic support for the bulk of popular programming languages. * Data collection : Visual Studio Code collects and sends usage data to Microsoft. * Version management : Visual Studio Code includes source control as a typical feature, a fanatical tab within the menu bar allows you to access version control options and monitor changes to the present project. 
 # PyCharm
-PyCharm : is an integrated development environment (IDE) for computer programming that focuses on the Python programming language. It was designed by JetBrains, a Czech startup (formerly known as IntelliJ). It comes with a code analyzer, a graphical debugger, an integrated unit tester, version control system (VCS) integration, and support for Django web development and Anaconda data science.
-PyCharm is available in Windows, Mac OS X, and Linux versions. The Apache License governs the Community Edition, but a proprietary license governs the Professional Edition, which includes more functionality.
+PyCharm may be a programming integrated development environment (IDE) that focuses on the Python programing language. JetBrains, a Czech firm, created it (formerly referred to as IntelliJ). It comes with a code analyzer, graphical debugger, integrated unit tester, VCS integration, also as support for Django web development and Anaconda data science. PyCharm is out there in versions for Windows, Mac OS X, and Linux. The Community Edition is governed by the Apache License, but the Professional Edition, which has more features, is governed by a proprietary license.
 ## Features:
-* Support for Intelligent Coding :
-Smart code completion, code inspections, on-the-fly error flagging and quick-fixes, as well as automated code refactorings and rich navigation are all available in PyCharm.
+* Support for Intelligent Coding : Smart code completion, code inspections, on-the-fly error flagging and quick-fixes, also as automated code refactorings and rich navigation are all available in PyCharm.
 
+* Included Developer Tools : An integrated debugger and test runner, a Python profiler, a built-in terminal, integration with major VCS and built-in database tools, remote development with remote interpreters, an integrated ssh terminal, and interaction with Docker and Vagrant are just a couple of of PyCharm's many features.
 
+1 - Testing, debugging, and profiling Use the Python and JavaScript debugger with a graphical interface. With coding assistance and a GUI-based test runner, you'll create and execute your tests. Python Profiler integration gives you complete control over your code.
 
-* Included Developer Tools :
-Among PyCharm's many features are an integrated debugger and test runner, a Python profiler, a built-in terminal, integration with major VCS and built-in database tools, remote development capabilities with remote interpreters, an integrated ssh terminal, and integration with Docker and Vagrant.
+2 - Deployment, Version system (VCS), and Remote Development Working with Git, SVN, Mercurial, and other version control systems is simpler with one UI. Remote computers are often wont to run and debug your program. With Vagrant and Docker, you'll easily organize automatic deployment to a foreign host or VM and manage your infrastructure. 
 
-   1 - Testing, debugging, and profiling
-Use the Python and JavaScript debugger with a graphical user interface. With coding assistance and a GUI-based test runner, you can create and execute your tests. Python Profiler integration gives you complete control over your code.
+3 - Tools for database Oracle Access, SQL Server, PostgreSQL, MySQL and other IDE-based databases, trust the help of PyCharm once you edit SQL code, execute queries, browse data, and alter schemas. 
 
-   2 - Deployment, Version Control System (VCS), and Remote Development
-Working with Git, SVN, Mercurial, and other version control systems is easier with a single UI. Remote computers can be used to run and debug your program. With Vagrant and Docker, you can easily organize automatic deployment to a remote host or VM and manage your infrastructure.
+* Website Design and Development PyCharm not only supports Python, but also a spread of Python web development frameworks, particular template languages, JavaScript, CoffeeScript, TypeScript, HTML/CSS, AngularJS, Node.js, and other programming languages. 
 
-   3 - Tools for database
-Oracle Access, SQL Server, PostgreSQL, MySQL and other IDE-based databases, trust the assistance of PyCharm when you edit SQL code, execute queries, browse data, and change schemas.
+1 - Python Web frameworks 
 
-* Website Design and Development
-PyCharm not only supports Python, but also a variety of Python web development frameworks, particular template languages, JavaScript, CoffeeScript, TypeScript, HTML/CSS, AngularJS, Node.js, and other programming languages.
+2 - JavaScript & HTML 
 
-   1 - Python Web frameworks
+3 - Live Edit 
 
-   2 - JavaScript & HTML
+* Instruments of Science PyCharm works with IPython Notebook, has an interactive Python terminal, and is compatible with Anaconda also as variety of scientific packages like Matplotlib and NumPy. 
 
-   3 - Live Edit
+* Cross-platform IDE with Customizability PyCharm are often used on Windows, Mac OS X, and Linux employing a single license key. 
 
-* Instruments of Science
-PyCharm works with IPython Notebook, has an interactive Python terminal, and is compatible with Anaconda as well as a number of scientific packages such as Matplotlib and NumPy.
- 
-* Cross-platform IDE with Customizability
-PyCharm can be used on Windows, Mac OS X, and Linux using a single license key.
+# Linux OS
 
-# Linux Operating System
-Linux is a Unix-like operating system developed by the Linux community for PCs, servers, mainframes, mobile devices, and embedded devices. It is one of the most commonly used operating systems, having support for practically every major computer platform, including the x86, ARM, and SPARC architectures.
-Linux was designed to be similar to UNIX, but it has since evolved to run on a variety of hardware, including phones and supercomputers. Every Linux-based operating system includes the Linux kernel, which manages hardware resources, as well as a collection of software packages that make up the rest of the operating system.
-The operating system includes some common basic components, such as the GNU tools. These programs enable the user to manage the kernel's resources, install additional software, adjust performance and security settings, and do other things. When all of these tools are combined, they form the operating system, because Linux is an open source operating system, different Linux distributions have different software combinations.
-Linux ingredients : 
+Linux may be a Unix-like OS developed by the Linux community for PCs, servers, mainframes, mobile devices, and embedded devices. it's one among the foremost widely used operating systems, supporting most major computer platforms, including the x86, ARM, and SPARC architectures. Linux began as a UNIX-like OS, but it's now expanded to incorporate phones and supercomputers. Every Linux-based OS includes the Linux kernel, which manages hardware resources, also as a set of software packages that structure the remainder of the OS. Some common basic components, like the GNU tools, are included with the OS.These apps allow you to manage the kernel's resources, install additional software, tweak performance and security settings, and more. Because Linux is an open source OS, different Linux distributions have different software combinations when all of those tools are merged to form the OS.
+Linux ingredients :
 Kernel
-The fundamental component of the operating system. The operating system will not function without it. The kernel manages the system's resources and communicates with the hardware. It is in charge of memory, processes, and file management.
+The fundamental component of the OS. The OS won't function without it, the kernel is responsible of managing the system's resources and interacting with the hardware, it's responsible of memory, processes, and file management. 
 
-The system's user space
-The administrative layer is in charge of system-level functions such as configuration and software installation. The shell, or command line, daemons, or background processes, and the desktop environment, or user interface, are all part of this.
+The system's user space 
+The administrative layer is responsible of system-level functions like configuration and software installation. The shell, or instruction, daemons, or background processes, and therefore the desktop environment, or interface, are all a part of this.
 
-Applications
-Applications are a type of software that allows you to perform a specific task. Apps include things like desktop tools and programming languages, as well as multiuser corporate suites. Most Linux distributions have a central database where users may look for and download extra software.
+Applications 
+Applications are pieces of software that enable you to try to to a selected tas, apps include things like desktop tools and programming languages, also as multiuser corporate suites. Most Linux distributions have a central database where users may search for and download extra software.
 
-
-# Windows Operating System 
-Microsoft Windows, or simply Windows, is a grouping of proprietary graphical operating system families developed and marketed by Microsoft. Each family is dedicated to a specific aspect of the computing industry.
-Microsoft Windows, also known as Windows or Windows OS, was the first operating system to provide an IBM-compatible computer with a graphical user interface (GUI).
-Since its initial release in 1985, Microsoft's Windows operating system has gone through nine major revisions.
-It is characterized by ease of use and easy to understanding and simple to navigation between files and the good graphical user interface.
+# Windows OS 
+Microsoft Windows, or simply Windows, may be a collection of proprietary graphical OS families that Microsoft has developed and commercialized. Each family focuses on a special element of the pc business. Microsoft Windows, often referred to as Windows or Windows OS, was the primary OS to supply a graphical interface to an IBM-compatible computer (GUI). Since its original release in 1985, Microsoft's Windows OS has skilled nine significant revisions. It is distinguished by its simple use, understanding, and navigation between files, also as an honest graphical interface. 
 
 # GitHub 
-GitHub is a service that hosts Git repositories as well as providing a number of additional functions. While Git is a command-line application, GitHub features a web-based graphical user interface. For each project, it also offers access control as well as a number of collaboration features such as wikis and simple task management systems.
-It's a version control system that runs on the web. Git simplifies project collaboration by streamlining the process of collaborating with others. Members of the team can work on files and easily merge their modifications into the master branch of the project.
-To access and manage projects on GitHub.com, use the standard Git command-line interface; all standard Git commands work with it. Users can also browse GitHub.com's public repositories. A number of desktop clients and Git plugins are also available. The site includes social networking features such as feeds, followers, wikis (created with Gollum wiki software), and a social network graph that shows how developers collaborate on different versions of a repository ("forks") and which fork (and branch within that fork) is the most recent.
 
-# GitLab
-GitLab is an open-source web-based DevOps lifecycle solution built by GitLab Inc. that includes a Git repository manager, wiki, issue-tracking, and continuous integration and deployment pipeline.
-As a source code management solution for collaborating on software development within a team, the code was originally created in Ruby, with some pieces later rewritten in Go. It later evolved into a comprehensive solution that covered the full software development life cycle, as well as the entire DevOps life cycle. The technological stack presently includes Go, Ruby on Rails, and Vue.js.
-The core functionality is distributed under an open-source (MIT) license, but the additional functionality is distributed under a proprietary license.
-The main difference between GitHub and GitLab is the platform that each ideology offers. GitLab is more focused on providing a features-based system with a centralized, integrated platform for web developers, whereas GitHub is more focused on infrastructure performance and offers greater availability.
-_____________________________________________________________________________________
-## IDE tool that I will use it in project : Visual Studio Code.
-## Operating System that I will use it in project : Linux Ubuntu distribution.
-## Version Control System that I will use it in project : GitHub.
+GitHub may be a service that hosts Git repositories and offers a spread of other features. GitHub features a web-based graphical interface, whereas Git may be a command-line tool. It also provides access control and a spread of collaborative tools, like wikis and straightforward task management systems, for every project. It's an internet-based version system. Git streamlines the method of collaborating with others, making project collaboration easier. Members of the team can work on files and quickly merge their changes into the project's master branch. Use the regular Git command-line interface to access and manage projects on GitHub.com; it supports all standard Git commands. Users also can browse the general public repositories on GitHub.com. There also are variety of desktop clients and Git plugins available. the location incorporates social networking elements including feeds, followers, wikis (made with Gollum wiki software), and a social network graph that shows how developers collaborate on different versions of a repository ("forks"), also as which fork (and branch within that fork) is that the most up-to-date.
+
+# GitLab 
+GitLab is an open-source web-based DevOps lifecycle solution built by GitLab Inc. that has a Git repository manager, wiki, issue-tracking, and continuous integration and deployment pipeline. As a ASCII text file management solution for collaborating on software development within a team, the code was originally created in Ruby, with some pieces later rewritten in Go. It later evolved into a comprehensive solution that covered the complete software development life cycle, also because the entire DevOps life cycle. The technological stack presently includes Go, Ruby on Rails, and Vue.js. The core functionality is distributed under an open-source (MIT) license, but the extra functionality is distributed under a proprietary license. The main difference between GitHub and GitLab is that the platform that every ideology offers. GitLab is more focused on providing a features-based system with a centralized, integrated platform for web developers, whereas GitHub is more focused on infrastructure performance and offers greater availability. 
+
+_____________________________________________________________________________________ 
+
+## IDE tool that i will be able to use it in project : Visual Studio Code. 
+## OS that i will be able to use it in project : Linux Ubuntu distribution.
+## Version system that i will be able to use it in project : GitHub.
+
 ____________________________________________________________________________________
+
 
 Task 2 (2)
 
-So I will use Visual Studio Code for coding with HTML, JS and CSS because it’s easy for use and all its features are good and help me get the job done quickly and correctly without any errors, I will use also GitHub because It’s so helpful when we work as a team and it’s good to tracking what’s the changed that happen on the code the thing that will help us not to confront conflicts in code and I will use Linux operating system because has a high security, open Source,  ease of maintenance, runs on any hardware and ease of use.
-VS Code lets us to be productive in seconds with syntax highlighting, bracket matching, auto-indentation, box selection, snippets, and more.
-It's easy to traverse your code and save time and effort with intuitive keyboard shortcuts, simple customization, and community-contributed keyboard shortcut mappings.
-And GitHub because it includes a large number of large organizations, it is best to display projects after they have been completed, also Easy Version Control, Secure Cloud Storage and the Largest Shared Repository.
+So i will be able to use Visual Studio Code for coding with HTML, JS and CSS because it’s easy to be used and every one its features are good and help me get the work done quickly and properly with none errors, i will be able to use also GitHub because It’s so helpful once we work as a team and it’s good to tracking what’s the changed that happen on the code the thing which will help us to not confront conflicts in code and that i will use Linux OS because features a high security, open Source, simple maintenance, runs on any hardware and simple use.With syntax highlighting, bracket matching, auto-indentation, box selection, snippets, and more, VS Code allows us to be productive in seconds.It's easy to traverse your code and save time and energy with intuitive keyboard shortcuts, simple customization, and community-contributed keyboard shortcut mappings.And GitHub because it includes an outsized number of huge organizations, it's best to display projects after they need been completed, also Easy Version Control, Secure Cloud Storage and therefore the Largest Shared Repository.
 
 Pycharm disadvantages:
 
-1- The most significant disadvantage of PyCharm is that it consumes more space than other text editors, resulting in less code capability.
-
-2- The community version is restricted to Python development and does not permit the use of other programming languages.
-
-3- The professional edition is a little pricey.
-
-4- Because setting a virtual environment variable can be difficult for beginners, they may avoid using it.
+1- the foremost significant disadvantage of PyCharm is that it consumes more room than other text editors, leading to less code capability.
+2- The community version is restricted to Python development and doesn't permit the utilization of other programming languages.
+3- The professional edition may be a little pricey.
+4- Because setting a virtual environment variable are often difficult for beginners, they'll avoid using it.
 
 Windows disadvantages :
 
-1- Resources are in short supply.
+1- Resources are briefly supply.
 
 2- Closed source.
 
-3- Virus susceptibility due to a lack of security.
+3- Virus susceptibility thanks to a scarcity of security.
 
 4- Licensing agreements that are outrageous.
 
-5- Technical support is inadequate.
+5- Technical support is insufficient.
 
 6- Additional costs.
 
-7- Remote access is inadequate.
+7- Remote access is insufficient.
 
 Gitlab disadvantages :
 
-1- Its user interface may be slower than GitHub.
+1- Its interface could also be slower than GitHub.
 
-2- There are a few common issues with repositories.
+2- There are a couple of common issues with repositories.
 
-Those disadvantages made me choose their competitors because they will affect negatively on our work.
+Those disadvantages made me choose their competitors because they're going to affect negatively on our work.
 
 
 Task 2 (3)
 
 The reasons of using Visual Studio Code IDE :
-You'll often benefit from tools that understand more code than just blocks of text if you're doing significant coding. Visual Studio Code has IntelliSense code completion, sophisticated semantic code understanding and navigation, and code refactoring.
-When things get difficult in the coding department, the brave turn to debugging. Debugging is possible in Visual Studio Code, which is frequently the functionality developers miss the most in a leaner coding environment. Using the interactive debugger included with Visual Studio Code, you can step through source code, inspect variables, view call stacks, and run commands in the console.
-To automate routine tasks and streamline workflows, VS Code integrates with build and scripting tools. VS Code now offers Git support, allowing you to engage with source control without ever leaving the editor, including examining pending change diffs.
 
-All these reasons make me to choose Visual Studio Code to build my website so it will help us with writing code and spend less time also effort.
-It is also easy to use and the team members are all working on it professionally because of its long-time use in writing code, which will make us not need time to learn the features and how to operate the program and how to work on it. It will help us to skip a lot of time in writing because it has a code completion feature.
+You'll often enjoy tools that understand more code than simply blocks of text if you're doing significant coding, intelliSense code completion, complex semantic code interpretation and navigation, and code refactoring are all available in Visual Studio Code.
+When things get difficult within the coding department, the brave address debugging. Debugging is feasible in Visual Studio Code, which is usually the functionality developers miss the foremost during a leaner coding environment. Using the interactive debugger included with Visual Studio Code, you'll step through ASCII text file, inspect variables, view call stacks, and run commands within the console.
+To automate routine tasks and streamline workflows, VS Code integrates with build and scripting tools. VS Code now offers Git support, allowing you to interact with source control without ever leaving the editor, including examining pending change diffs.
+All these reasons make me to settle on Visual Studio Code to create my website so it'll help us with writing code and spend less time also effort.It is also easy to use and therefore the team members are all performing on it professionally due to its long-time use in writing code, which can make us not need time to find out the features and the way to work the program and the way to figure thereon. it'll help us to skip tons of your time in writing because it's a code completion feature.
 
-The reasons of using Linux Operating System :
+The reasons of using Linux OS :
 
-1. A high level of protection
-Installing and using Linux on your PC is the simplest approach to avoid viruses and malware. Linux was developed with security in mind, and it is significantly less susceptible to infections than Windows.
-2. Exceptionally stable
-The Linux operating system is extremely stable and rarely crashes. The Linux operating system continues to run as quickly as it did when it was originally installed, even after several years. Most of us have witnessed how a newly installed Windows system performs incredibly well for six to twelve months before slowing down. Then, in most cases, reinstalling the operating system and all other software is your only alternative.
-3. Simplicity of upkeep
-The Linux operating system is simple to maintain since the user can easily update the operating system and all installed software from a central location. Every Linux distribution has its own central software repository, which is used to maintain the system up to date and secure. They provide regular updates, and the system can be upgraded without having to restart. Users can update their data on a regular basis with just a few clicks, or they can even automate the process. In comparison to a Linux system, updating a Windows system is more difficult. Under addition, in Windows, all third-party software such as Acrobat Reader and Firefox must be updated separately.
-4. It is compatible with any computer.
-We are all aware that with each new Windows OS release, a large number of hardware systems become obsolete because their technical specifications are no longer adequate to run the most recent Windows OS. Linux is particularly adept at making use of the system's resources. In a Linux system, users and unique hardware requirements can be catered to. The installation process is quite flexible, allowing users to select which modules to install. This allows them to install Linux on older technology and make the best use of all available hardware resources.
-5. Ease of use
-Linux is no longer solely for nerds, contrary to common opinion. It now has an excellent graphical user interface and is user-friendly (GUI). It has nearly all of the same functionality as Windows. The graphical user interface has progressed to the point that most of what ordinary users desire can be done on Linux just as simply as it can be done on Windows, and without having to know any commands.
-6. Community Support 
-On the Internet, there is a large community of Linux users who can be found in numerous forums. Because many volunteers are online and working to solve problems because of their passion of Linux, any query submitted in a forum will usually receive a speedy response.
-We have all preferred to use a system Linux because there is very little chance that it will fail because any failure may expose us to the risk of delaying the completion of a large project such as a website project for movies. It also works on all devices. Each member of the team has a different device type than the other. Some of them are old and some are new. The problems that we may encounter with this system are very simple.
-And it takes a little time compared to the Windows system, and if we need help due to a problem in the system, we can get help immediately, all of these reasons its first goal in choosing this system is that we do not run into problems that make us delay in delivering the project to build a website for movies because we do not have much time.
+1. A high level of protectionInstalling and using Linux on your PC is that the simplest approach to avoid viruses and malware. Linux was developed with security in mind, and it's significantly less vulnerable to infections than Windows.
 
-The reasons of using GitHub Version Control System :
+2. Exceptionally stableThe Linux OS is extremely stable and infrequently crashes. The Linux OS continues to run as quickly because it did when it had been originally installed, even after several years. Most folks have witnessed how a newly installed Windows system performs incredibly well for 6 to 12 months before slowing down. Then, in most cases, reinstalling the OS and every one other software is your only alternative.
 
-A Massively Influential Group
-GitHub is an open-source platform that is driven by the community. Millions of programmers and enthusiasts contribute to the community by downloading, reviewing, and rating their work.
-GitHub is also the platform of choice for developers at a number of major corporations. Microsoft is the system's largest donor, but it also includes Google, SAP, AirBnB, IBM, PayPal, and a few other companies.
-In our project, we need to write collectively and increase and modify the code in order to accomplish the task of creating a web page for movies faster and also to work as a team and reduce the effort on each team member so we decided to use GitHub because it will help us overcome this problem also that we will publish Therefore, our project, which helps large companies see the projects that they are able to complete, and increases the rates of obtaining a job.
+3. Simplicity of upkeepThe Linux OS is straightforward to take care of since the user can easily update the OS and every one installed software from a central location. Every Linux distribution has its own central software repository, which is employed to take care of the system up so far and secure. they supply regular updates, and therefore the system are often upgraded without having to restart. Users can update their data on a daily basis with just a couple of clicks, or they will even automate the method. as compared to a Linux system, updating a Windows system is harder. Under addition, in Windows, all third-party software like Acrobat Reader and Firefox must be updated separately.
+
+4. it's compatible with any computer.We are all aware that with each new Windows OS release, an outsized number of hardware systems become obsolete because their technical specifications are not any longer capable run the foremost recent Windows OS. Linux is especially adept at making use of the system's resources. during a Linux system, users and unique hardware requirements are often catered to. The installation process is sort of flexible, allowing users to pick which modules to put in. this enables them to put in Linux on older technology and make the simplest use of all available hardware resources.
+
+5. simple useLinux is not any longer solely for nerds, contrary to common opinion. It now has a superb graphical interface and is user-friendly (GUI). it's nearly all of an equivalent functionality as Windows. The graphical interface has progressed to the purpose that the majority of what ordinary users desire are often done on Linux even as simply because it are often done on Windows, and without having to understand any commands.
+
+6. Community Support On the web, there's an outsized community of Linux users who are often found in numerous forums. Because many volunteers are online and dealing to unravel problems due to their passion of Linux, any query submitted during a forum will usually receive a speedy response.We have all preferred to use a system Linux because there's little or no chance that it'll fail because any failure may expose us to the danger of delaying the completion of an outsized project like an internet site project for movies. It also works on all devices. Each member of the team features a different device type than the opposite. a number of them are old and a few are new. the issues that we may encounter with this technique are very simple.
+And it takes a touch time compared to the Windows system, and if we'd like help thanks to a drag within the system, we will get help immediately, all of those reasons its first goal in choosing this technique is that we don't run into problems that make us delay in delivering the project to create an internet site for movies because we don't have much time.
+
+The reasons of using GitHub Version system :
+
+A Massively Influential GroupGitHub is an open-source platform that's driven by the community. many programmers and enthusiasts contribute to the community by downloading, reviewing, and rating their work.GitHub is additionally the platform of choice for developers at variety of major corporations. Microsoft is that the system's largest donor, but it also includes Google, SAP, AirBnB, IBM, PayPal, and a couple of other companies in our project, we'd like to write down collectively and increase and modify the code so as to accomplish the task of making an internet page for movies faster and also to figure as a team and reduce the trouble on each team member so we decided to use GitHub because it'll help us overcome this problem also that we'll publish Therefore, our project, which helps large companies see the projects that they're ready to complete, and increases the rates of obtaining employment.
 
 # Refrences
 
@@ -189,4 +151,3 @@ https://hackr.io/blog/what-is-pycharm
 
 * RJ Systems
 http://www.rjsystems.nl/en/3200.php
-
