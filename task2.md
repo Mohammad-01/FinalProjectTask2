@@ -65,8 +65,11 @@ So i will be able to use Visual Studio Code for coding with HTML, JS and CSS bec
 Pycharm disadvantages:
 
 1- the foremost significant disadvantage of PyCharm is that it consumes more room than other text editors, leading to less code capability.
+
 2- The community version is restricted to Python development and doesn't permit the utilization of other programming languages.
+
 3- The professional edition may be a little pricey.
+
 4- Because setting a virtual environment variable are often difficult for beginners, they'll avoid using it.
 
 Windows disadvantages :
