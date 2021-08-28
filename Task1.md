@@ -21,12 +21,11 @@ Weak project management, don't write of initial plans, the problems that may fac
 ## List of requirements
 
 1. Nav bar include imdb logo, website logo and buttons linked to other pages to move between. 
-2. Movie details (Name, Story, Type, Rate, actors, trailer, movie image).
+2. Movie details (Name, tybe, Story, trailer, movie image).
 3. Add ads for the latest movies like adding trailer in the home page or slideshow pictures.
 4. Colors and background (design).
-5. Favorite list to user add his favorite movie or series.
-6. Social media icons linked with website pages.
-7. Shopping cart to add a movie or series when user select a movie.
+5. Social media icons linked with website pages.
+6. Shopping cart to add a movie or series when user select a movie.
 
 ## Database design and the wireframe
 
@@ -38,30 +37,36 @@ We will use LocalStorage to save the add items in favorite list it in the browse
 
 ## Wireframe
 
-![fig1](images/home.jpeg)
+![fig1](images/mainpage.PNG)
 
 * Main Website Page
 
-Here will have at the first of page the bar that have our logo and IMDb link also two options to move to series page or movies page and also the search icon then we have a slide show to the best movies for this month then we have a small list of top movies contain of 5 movies then also a small list of top series contain of 5 series and at the end of page we have our logo, copyright, about us option to move to about us page and icons move you to our pages in social media.
+Here will have at the first of page the bar that have our logo also three options to move to series page or movies page and also the cart icon then we have a slide show that show trailer to the best movies for this month then we have a small icons of social media linked with website pages, then the name and the story, tybe of the movie and read more button move the user to show details page.
 
-![fig2](images/addcart.jpeg)
+
+![fig2](images/seriesandmovies.PNG)
 
 * Movies and Series pages
 
-First in the page we have the logo then if you are In movies page you will see to options home to back to the main page and series to move to the series page and if you are in series page you will see the home option and the movies option that move you to the movies page, then the cart button to move to add to cart page after the bar we will add a trailer video of best movie or for any movie need ad, then you will show a list of movies and after the list in the end of page our logo, copy right, about us and button and the social media icons.
+First in the page we have the logo then if you are In movies page you will see to options home to back to the main page and series to move to the series page and if you are in series page you will see the cart button to move to add to cart page after the bar user will show slide show of movies posters, then user will show a list of movies/series and after the list in the end of page copy right, in the right of page user will see the social media icons.
 
-![fig3](images/M&SDetails.jpeg)
+![fig3](images/showinfopage.PNG)
 
 * All information about the series or movie in details
 
-At the first of page our logo then Movie, home and series options then the movie image behind it the movie name, year, type, imdb link, rate etc. then the movie trailer then story and finally the actors
-and at the end of page the logo, copy right, about us and button and the social media icons.
+At the first of page our logo then Movie, series and about us options then the movie image at the background then movie name, story and watch trailer that move the user to the trailer of the movie, and small picture of movie poster, in the right of page user will see the social media icons.
 
-![fig4](images/aboutus.jpeg)
+![fig4](images/aboutUsPage.PNG)
 
 * About Us page
 
-At the first of page our logo then Movie, home and series options then every member in this team image with his name and details and at the end of page the logo, copy right and the social media icons.
+At the first of page our logo then Movie and series options then every member in this team image with his name and details and at the end of page the copy right.
+
+![cart](images/cart2.jpeg)
+
+* Cart page
+
+At this page the user will show every movie or series he choose it to buy and will have a delete option to delete movie or series from the list then below user will see a form to buy the items (Name, email, number) then confirm button to end the process.
 
 ## Activity Diagram
 
