@@ -19,7 +19,7 @@ Weak project management, don't write of initial plans, the problems that may fac
 
 ## List of requirements
 
-1. Nav bar include imdb logo, website logo and buttons linked to other pages to move between. 
+1. Nav bar include website logo and buttons linked to other pages to move between. 
 2. Movie details (Name, type, Story, trailer, movie image).
 3. Add ads for the latest movies like adding trailer in the home page or slideshow pictures.
 4. Colors and background (design).
